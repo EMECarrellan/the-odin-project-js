@@ -108,7 +108,7 @@ img {
     font-weight: 500;
 }
 
-@media (width <= 932px) {
+@media (width <= 700px) {
     section {
         justify-content: center;
     }
